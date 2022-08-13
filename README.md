@@ -17,3 +17,20 @@ arbitration process was also observed using Pico Scope.
 # Standard CAN and Extended CAN frame format
 
 ![image](https://user-images.githubusercontent.com/77397380/184477830-8ceccb6c-7a96-41a5-ba51-9ab902b22a5e.png)
+
+# CAN High and CAN Low Voltage levels
+
+![image](https://user-images.githubusercontent.com/77397380/184477849-16709714-d86d-4ac2-a653-d76a8b9c4991.png)
+
+# Data frame output observed through Pico Scope
+
+![image](https://user-images.githubusercontent.com/77397380/184477866-71d3b0c9-300b-400d-95ce-ae3f833b23c3.png)
+
+# Remote frame output observed through PicoScope
+
+![image](https://user-images.githubusercontent.com/77397380/184477879-bac65090-a564-4962-9dcd-8b7ecb1a90f1.png)
+
+# Error frame output observed through PicoScope
+
+![image](https://user-images.githubusercontent.com/77397380/184477890-11d79904-eda6-4648-b26a-30082c905bb8.png)
+
