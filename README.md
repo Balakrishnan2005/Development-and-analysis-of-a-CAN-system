@@ -13,3 +13,7 @@ frame formats (Data, Remote and Error) was observed and decoded by
 measuring the bus voltage levels using Pico scope for the various frame
 rates of 200Kb/s, 512kb/s and 1Mb/s. Additionally, Bit stuffing and
 arbitration process was also observed using Pico Scope.
+
+# Standard CAN and Extended CAN frame format
+
+![image](https://user-images.githubusercontent.com/77397380/184477830-8ceccb6c-7a96-41a5-ba51-9ab902b22a5e.png)
